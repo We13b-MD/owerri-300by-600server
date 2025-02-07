@@ -10,7 +10,7 @@
   "main": "gwd-events-support.1.0.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
+    "start": "node server.js"
     },
   "keywords": [],
   "author": "",
